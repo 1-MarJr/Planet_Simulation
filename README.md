@@ -1,2 +1,2 @@
 # Planet_Simulation
-This project is a solar system simulation built with Pygame.
+This project is a solar system simulation built with Pygame. It models the Sun, Earth, Mars, Mercury, and Venus, calculating their orbits using Newtonian gravity. Each planet’s position and velocity are updated in real time, and their orbital paths are visualized as they move. The simulation demonstrates basic principles of orbital mechanics and gravitational attraction in an interactive and educational way.
